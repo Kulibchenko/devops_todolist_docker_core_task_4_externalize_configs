@@ -23,12 +23,8 @@ And then start the server (default: http://localhost:8000)
 Now you can browse the [API](http://localhost:8000/api/)
 or start on the [landing page](http://localhost:8000/)
 
-## Task
-#### Prerequisites
-- Fork this repository
-
 #### Requirements
-1. pdate docker-compose to be able to set such env variables:
+1. Update docker-compose to be able to set such env variables:
     - ENGINE
     - NAME
     - USER
